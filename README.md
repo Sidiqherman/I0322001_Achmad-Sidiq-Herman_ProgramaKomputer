@@ -1,2 +1,2 @@
-# I0322001_Achmad-Sidiq-Herman_ProgramaKomputer
+I0322001 Achmad Sidiq Herman
 Sidiq Punya
