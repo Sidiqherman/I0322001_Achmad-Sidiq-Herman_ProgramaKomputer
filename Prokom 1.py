@@ -36,6 +36,7 @@ else:
     print("==========")
     print("anda harus mengulang")
     print("==========")
+print("hahaha")
 
     # program manipulasi integer
 
