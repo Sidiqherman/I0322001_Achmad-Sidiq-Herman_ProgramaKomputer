@@ -14,3 +14,7 @@ print("Gaji pokok : ", gaji_pokok)
 print("Gaji lembur : ", gaji_lembur)
 print("pendapatan : ", pendapatan)
 print()
+
+
+
+print("hahahaha")
