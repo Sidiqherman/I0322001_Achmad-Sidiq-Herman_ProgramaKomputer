@@ -1,2 +1,2 @@
-# I0322001 Achmad Sidiq Herman halo
+# I0322001 Achmad Sidiq Herman
 Sidiq Punya
